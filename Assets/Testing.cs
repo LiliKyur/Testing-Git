@@ -10,6 +10,6 @@ public class Testing : MonoBehaviour
 
 	private void Start()
 	{
-		GameTitle.text = "First Test";
+		GameTitle.text = "Secont Test";
 	}
 }
